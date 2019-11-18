@@ -1,6 +1,6 @@
 
 # A Deep Dive into Object Oriented Programmimg  
-### Level: BIntermediate / Advanced
+### Level: Intermediate / Advanced
 ### Presentation: (where your audience can find the presentation)
 
 ## Project description
