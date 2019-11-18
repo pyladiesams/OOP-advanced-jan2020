@@ -1,6 +1,6 @@
 
-# An introduction to { YOUR TOPIC } with { LIBRARY YOU USE } 
-### Level: Beginner or Advanced
+# A Deep Dive into Object Oriented Programmimg  
+### Level: BIntermediate / Advanced
 ### Presentation: (where your audience can find the presentation)
 
 ## Project description
