@@ -1,29 +1,43 @@
+<div align="center">
+    <h1>A Deep Dive into Object Oriented Programmimg in Python</h1>
+    <p>Level: Intermediate / Advanced</p>
+</div>
 
-# A Deep Dive into Object Oriented Programmimg  
-### Level: Intermediate / Advanced
-### Presentation: (where your audience can find the presentation)
+## Presentation: 
 
 ## Project description
-Describe why your introduction to this topic is important and what you want to teach to your audience
+Object-oriented Programming, or OOP for short, is a programming paradigm which provides a means of structuring programs so that properties and behaviours are bundled into individual objects.
 
+This workshop is divided into two parts. 
 
-## Setup:
-Set up a Python 3 environment that can run Jupyter notebooks (Jupyter or Jupyterlab) and install the following libraries:
-* ...
+In the first part, we’ll explore non-widely known Object-oriented Programming concepts in Python, such as:
+- Inheritance and Multi-inheritance
+- Composition
 
-The easiest way to do this is to install [anaconda](https://www.anaconda.com/distribution/) and install the libraries in your root environment:
-```conda install matplotlib pandas seaborn```
+In the second part, we’ll explore more non-widely known Object-oriented Programming concepts in Python, such as:
+- Dataclasses
+- Magic Methods
+- Slots
+- Meta Classes
+- Abstract Classes
 
-If you already have a running (ana)conda environment, you can use `intro.yml` to set up a separate enviroment:
-```conda env create -f environment.yml```
 
 ## Requirements
-* Python 3
-* ...
+* Python 3.7 +
+* jupyter lab 1.2.3 or Google Colab
+* Basic knowledge of OOP in python is required to get the most of this workshop.
 
 ## Usage
 * Clone the repository
-* Start jupyter(lab) and navigate to the workshop folder
+* If Jupyter, start jupyter(lab) and navigate to the workshop folder.
+* If Google Colab:
+    - A google account is required.
+    - Connect to this website : https://colab.research.google.com/
+    - Click on File
+    - Click Open a notebook
+    - Under Github tab enter this URL: https://github.com/pyladiesams/OOP-advanced-jan2020
+    - Press enter this will sync and show all notebooks available
+    - Choose workshop/*notebook-name*.ipynb
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github}
+This workshop was set up by [@PyLadiesAMS](https://www.meetup.com/PyLadiesAMS/) and [@ChidinmaKO](https://github.com/ChidinmaKO).
