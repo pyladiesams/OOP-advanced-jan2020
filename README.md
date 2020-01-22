@@ -3,8 +3,6 @@
     <p>Level: Intermediate / Advanced</p>
 </div>
 
-## Presentation: 
-
 ## Project description
 Object-oriented Programming, or OOP for short, is a programming paradigm which provides a means of structuring programs so that properties and behaviours are bundled into individual objects.
 
