@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>A Deep Dive into Object Oriented Programmimg in Python</h1>
+    <h1>A Deep Dive into Object Oriented Programming in Python</h1>
     <p>Level: Intermediate / Advanced</p>
 </div>
 
