@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>A Deep Dive into Object Oriented Programmimg in Python</h1>
+    <h1>A Deep Dive into Object Oriented Programming in Python</h1>
     <p>Level: Intermediate / Advanced</p>
 </div>
 
@@ -12,13 +12,8 @@ In the first part, we’ll explore non-widely known Object-oriented Programming 
 - Inheritance and Multi-inheritance
 - Composition
 
-In the second part, we’ll explore more non-widely known Object-oriented Programming concepts in Python, such as:
+In the second part, we’ll round up the first part and explore more non-widely known Object-oriented Programming concepts in Python, such as:
 - Dataclasses
-- Magic Methods
-- Slots
-- Meta Classes
-- Abstract Classes
-
 
 ## Requirements
 * Python 3.7 +
