@@ -1,6 +1,7 @@
 <div align="center">
     <h1>A Deep Dive into Object Oriented Programming in Python</h1>
     <p>Level: Intermediate / Advanced</p>
+    <p>Video: https://www.youtube.com/watch?v=Vja81df1-OY&feature=youtu.be <p>
 </div>
 
 ## Project description
